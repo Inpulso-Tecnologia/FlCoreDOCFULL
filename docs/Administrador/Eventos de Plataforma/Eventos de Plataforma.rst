@@ -22,8 +22,8 @@ Nele constará os seguintes eventos utilizados pelo pacote.
     
 Whatsapp Chat
 ~~~~~~~~~~~~~~
-O evento Whatsapp Chat é chamado após o insert ou update de uma Mensagem do Whatsapp, atualizando o chat da Conversa do Whatsapp.
+O evento Whatsapp Chat é chamado após a inserção ou atualização de uma Mensagem do Whatsapp, atualizando o chat da Conversa do Whatsapp.
 
 Whatsapp Inbox
 ~~~~~~~~~~~~~~~~
-O evento Whatsapp Inbox é chamado após a mudança de status da Conversa do Whatsapp, sendo é responsável por atualizar todo o Inbox do Whatsapp.
+O evento Whatsapp Inbox é chamado após a mudança de status da Conversa do Whatsapp, sendo responsável por atualizar todo o Inbox do Whatsapp.

@@ -25,7 +25,7 @@ Definições dos campos:
 
 Nome: nome do Parâmetro Falae. 
 
-Número: número registrado no whatsapp a máscara é DDD+Número. Ex.: 13999887766. 
+Número: número registrado no whatsapp (a máscara é DDD+Número. Ex.: 13999887766). 
 
 Resposta padrão para tipos incompatíveis: resposta para quando enviarem alguma mensagem que não foi possível interpretar (imagens, áudio, sticker, etc…). 
 

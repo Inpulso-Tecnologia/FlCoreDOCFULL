@@ -25,7 +25,7 @@ Definições dos campos:
 
 Nome: nome do Parâmetro Falae. 
 
-Número: número registrado no whatsapp a máscara é DDD+Número. Ex.: 13999887766. 
+Número: número registrado no whatsapp (a máscara é DDD+Número. Ex.: 13999887766). 
 
 Operadora: operadora do número que está cadastrando.
 
@@ -45,7 +45,7 @@ Clique em Salvar.
 .. Hint:: Quando aparecer erro na integração no campo Status o usuário ou a senha está incorreta.
           
     
-.. Hint:: Quando tiver os dados certo e o Status para Registrando, será necessário entrar em contato conosco para a ativação da organização (caso seja o primeiro parâmetro do tipo **Whatsapp - Inpulso Mob** da organização). 
+.. Hint:: Quando os dados estiverem corretos e o Status para Registrando, será necessário entrar em contato conosco para a ativação da organização (caso seja o primeiro parâmetro do tipo **Whatsapp - Inpulso Mob** da organização). 
 
 Ao finalizar o cadastro de um novo parâmetro Whatsapp - Inpulso Mob, será enviado um código para autenticação do número, caso seja possível, caso contrário mostrará quanto tempo falta para enviar um novo código tanto para Voz quanto para SMS.
 
@@ -83,4 +83,4 @@ Selecione o tipo de recebimento via SMS ou via Voz, após selecionado o tipo, cl
     :alt: Solidity logo
     :align: center
     
-    Modal selecionar o tipo que recebimento do código, podendo ser por SMS ou Voz.
+    Modal selecionar o tipo de recebimento do código, podendo ser por SMS ou Voz.

@@ -79,7 +79,7 @@ Dentro da conversa é possível vinculá-la a um lead ou uma conta através do b
     
     Selecionando botão de ações
     
-Ao seleciona-lo um painel aparecerá na conversa, onde será possível selecionar se a conversa deve ser relacionada a um Lead ou a um Contato
+Ao selecioná-lo um painel aparecerá na conversa, onde será possível selecionar se a conversa deve ser relacionada a um Lead ou a um Contato
 
 .. figure:: Inbox3.png
     :width: 500px
