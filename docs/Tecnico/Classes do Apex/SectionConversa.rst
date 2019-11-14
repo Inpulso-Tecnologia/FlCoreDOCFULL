@@ -1,4 +1,6 @@
+#################
 SectionConversa
+#################
 
 Essa classe contém as váriaveis listMensagemWa, isFirstSectionDate e sectionDate e os métodos SectionConversa e addMensagemWa.
 
