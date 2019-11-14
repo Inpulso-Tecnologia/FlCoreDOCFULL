@@ -23,17 +23,15 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
 
 .. toctree::
     :maxdepth: 2
-    :caption: Desinstalação
-
-
-   Desinstalação.rst
+    :caption: DesinstalaçãoTESTE
+    
+    Desinstalacao
 
    
 .. toctree::
     :maxdepth: 2
     :caption: Funcional
 
-    
     Funcional/Cadastro_Parametro
     Funcional/Cadastro_Parametro_Mob
     Funcional/Inbox do Whatsapp
