@@ -2,7 +2,7 @@
 AcaoMessenger
 #################
 
-Essa TESTE classe contem as variaveis **action** e **isDisabled** e o metodo **AcaoMessenger**.
+Essa classe contém as variáveis **action** e **isDisabled** e o metodo **AcaoMessenger**.
 
 Assinatura
 
