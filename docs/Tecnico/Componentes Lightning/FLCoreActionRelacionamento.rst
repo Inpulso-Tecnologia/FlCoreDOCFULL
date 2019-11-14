@@ -4,7 +4,7 @@ FLCoreActionRelacionamento
 
 Funcionamento:
 ~~~~~~~~~~~~~~~~
-Utilizado para abrir o modal correspondente a uma das ações, a de relacionar contato ou lead.
+Utilizado para abrir o modal correspondente a uma das ações: relacionar contato ou lead.
 
 Atributos:
 ~~~~~~~~~~~~

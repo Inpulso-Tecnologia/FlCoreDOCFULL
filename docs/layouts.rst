@@ -2,7 +2,7 @@
 Layouts
 #################
 
-Layouts das páginas do apex constituintes da aplicação Whatsapp Core
+Layouts das páginas do apex constituintes da aplicação Falae Core
 
 .. toctree::
    :maxdepth: 2

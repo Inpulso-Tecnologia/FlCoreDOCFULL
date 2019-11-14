@@ -2,7 +2,7 @@
 Componentes Lightning
 #################
 
-Componentes do Lightning constituintes da aplicação Whatsapp Core
+Componentes do Lightning constituintes da aplicação Falae Core
 
 .. toctree::
    :maxdepth: 2

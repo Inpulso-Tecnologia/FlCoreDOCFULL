@@ -32,7 +32,7 @@ getLastMensagemFl()
 Assinatura
   public MensagemFalae__c getLastMensagemFl(SectionConversa pSectionConversa)
 Ação
-  Retorna a ultima mensagem da sessão.
+  Retorna à última mensagem da sessão.
 Exemplo
 
    .. code-block:: apex

@@ -1,12 +1,18 @@
+#################
 AcaoMessenger
+#################
 
-Essa classe contém as variáveis action e isDisabled e o método AcaoMessenger.
+Essa classe contém as variáveis **action** e **isDisabled** e o método **AcaoMessenger**.
 
+#################
 Assinatura
+#################
 
 public AcaoMessenger(AcaoWhatsapp__mdt pAcaoWhatsapp, ConversaWhatsapp__c pConversaWhatsapp)
 
-Explecificações
+#################
+Expecificações
+#################
 
 @AuraEnabled
 action

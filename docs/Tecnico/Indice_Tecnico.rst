@@ -1,5 +1,5 @@
 #################
-Indice Tecnico
+Índice Técnico
 #################
 .. toctree::
    :maxdepth: 2

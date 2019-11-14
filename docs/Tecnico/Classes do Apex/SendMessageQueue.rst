@@ -7,7 +7,7 @@ SendMessageQueue()
 Cria a fila de mensagens
 
 Retorno
-    Cria a variáevl setMensagemId e atribui o valor de pSetMensagemId
+    Cria a variável **setMensagemId** e atribui o valor de **pSetMensagemId**
 Assinatura
     public SendMessageQueue(Set<Id> pSetMensagemId)
 Exemplo
@@ -19,10 +19,10 @@ Exemplo
     
 add() 
 -----------------------
-Método responsável pela inserção de mensagens a fila
+Método responsável pela inserção de mensagens à fila
 
 Retorno
-    Adiciona valores à variável setMensagemId
+    Adiciona valores à variável **setMensagemId**
 Assinatura
     public void add(Set<Id> pSetMensagemId) 
 Exemplo

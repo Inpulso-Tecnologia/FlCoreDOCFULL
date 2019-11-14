@@ -139,7 +139,7 @@ Exemplo
 @RemoteAction
 getMensagemWa()
 ~~~~~~~~~~~~~~~~~~~~
-  Retorna as últimas 1000 Mensagem do Whatsapp relacionado ao Id do parâmetro passado  pConversaWaId.
+  Retorna as últimas 1000 mensagens do Whatsapp relacionado ao Id do parâmetro passado  **pConversaWaId**.
 Assinatura
   global static List<MensagemWhatsapp__c> getMensagemWa(String pConversaWaId)
 Valor retornado
@@ -161,7 +161,7 @@ Exemplo
 @AuraEnabled
 getChatContent()
 ~~~~~~~~~~~~~~~~~~~~
-  Retorna uma classe ChatContent, enviando as últimas 1000 mensagens da conversa com o Id igual à pConversaWaId como parâmetro.
+  Retorna uma classe **ChatContent**, enviando as últimas 1000 mensagens da conversa com o Id igual à pConversaWaId como parâmetro.
 Assinatura
   public static ChatContent getChatContent(String pConversaWaId)
 Valor retornado
@@ -183,7 +183,7 @@ Exemplo
 @AuraEnabled
 doSaveMessage()
 ~~~~~~~~~~~~~~~~~~~~
-  Insere uma nova mensagem no servidor, com os parâmetros enviados pCorpo e pConversaWhatsapp.
+  Insere uma nova mensagem no servidor, com os parâmetros enviados **pCorpo** e **pConversaWhatsapp**.
 Assinatura
   public static void doSaveMessage(ConversaWhatsapp__c pConversaWhatsapp, String pCorpo)
 Valor retornado
@@ -193,7 +193,7 @@ Valor retornado
 @AuraEnabled
 getIconUrl()
 ~~~~~~~~~~~~~~~~~~~~
-  Retorna a URL do icone do Contato do Whatsapp com o id pContatoId não tenha icone e retorna uma String vazia caso contrário.
+  Retorna a URL do ícone do Contato do Falae com o id pContatoId, quando o contato não possui ícone, método retorna uma String vazia.
 Assinatura
   public static String getIconUrl(String pContatoId)
 Valor retornado
@@ -236,7 +236,7 @@ Exemplo
 @AuraEnabled
 getWAActions()
 ~~~~~~~~~~~~~~~~~~~~
-  Retorna uma lista AcaoMessenger com os tipos de metadados de Ação do Whatsapp do tipo Messenger com a pConversaWhatsapp.
+  Retorna uma lista **AcaoMessenger** com os tipos de metadados de Ação do Whatsapp do tipo **Messenger** com a **pConversaWhatsapp**.
 Assinatura
   public static List<AcaoMessenger> getWAActions(ConversaWhatsapp__c pConversaWhatsapp)
 Valor retornado
@@ -251,7 +251,7 @@ Exemplo
 @AuraEnabled
 doExecuteAction()
 ~~~~~~~~~~~~~~~~~~~~
-  Executa o método doExecuteWaAction da classe WAActionHandler.
+  Executa o método **doExecuteWaAction** da classe **WAActionHandler**.
 Assinatura
   public static void doExecuteAction(AcaoWhatsapp__mdt pAcaoWhatsapp, ConversaWhatsapp__c pConversaWhatsapp)
 Valor retornado

@@ -22,7 +22,7 @@ verificarTempoEnvio()
 Assinatura
     public static ResponseEntity verificarTempoEnvio(ParametroFalae__c pParam)
 Ação
-    Retorna uma classe **ResponseEntity** contento o uma mensagem de resposta e um booleano contento se pode ou não enviar um novo código.
+    Retorna uma classe **ResponseEntity** contendo uma mensagem de resposta e um booleano contendo se pode ou não enviar um novo código.
 Retorno
     Retorna uma classe do tipo **ResponseEntity**
 Exemplo
@@ -38,7 +38,7 @@ requestCodigo()
 Assinatura
     public static void requestCodigo(ParametroFalae__c pParam)
 Ação
-    Faz a requicição de um novo código pa ao **Parametro Falae** do tipo **Inpulso - Mob Service**.
+    Faz a requisição de um novo código pa ao **Parametro Falae** do tipo **Inpulso - Mob Service**.
 Exemplo
       
    .. code-block:: apex
