@@ -2,7 +2,7 @@
 SectionConversa
 #################
 
-Essa classe TESTE contem as variaveis **listMensagemWa**, **isFirstSectionDate** e **sectionDate** e os metodos **SectionConversa** e **ddMensagemWa**.
+Essa classe TESTE TESSSTEE contém as variáveis **listMensagemWa**, **isFirstSectionDate** e **sectionDate** e os metodos **SectionConversa** e **ddMensagemWa**.
 
 Assinatura
 
