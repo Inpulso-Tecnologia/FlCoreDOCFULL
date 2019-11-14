@@ -12,7 +12,7 @@ Entre em Configuração.
     
 Escreva páginas na busca rápida e clique em Páginas do Visualforce.
 
-Nele constará as seguintes páginas do visualforce ligado ao pacote instalado:
+Nele constará as seguintes páginas visualforce ligadas ao pacote instalado:
 
 .. image:: paginasVisualforce1.png
     :width: 450px
@@ -43,7 +43,7 @@ O FLQrRequest é um botão personalizado utilizado no **Layout de Parâmetro Fal
     
 Canal de Comunicação
 ---------
-O Canal de Comunicação é campo utilizado no **Layout de Parâmetro Falae** do objeto **Parâmetro Falae**, nele é apresentado o tipo de comunicação.
+O Canal de Comunicação é um campo utilizado no **Layout de Parâmetro Falae** do objeto **Parâmetro Falae**, nele é apresentado o tipo de comunicação.
 
 .. image:: paginasVisualforce4.png
     :width: 450px
@@ -52,7 +52,7 @@ O Canal de Comunicação é campo utilizado no **Layout de Parâmetro Falae** do
  
 FLSolicitarCodigo
 ---------
-O FLSolicitarCodigo é botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para solicitar um novo código.
+O FLSolicitarCodigo é um botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para solicitar um novo código.
 
 .. image:: paginasVisualforce5.png
     :width: 650px
@@ -61,7 +61,7 @@ O FLSolicitarCodigo é botão utilizado no **Layout de Parâmetro Falae (Whatsap
 
 FLAutenticarNumero
 ---------
-O FLAutenticarNumero é botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para autenticar o código recebido do parâmetro do tipo **Whatsapp - Inpulso Mob**.
+O FLAutenticarNumero é um botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para autenticar o código recebido do parâmetro do tipo **Whatsapp - Inpulso Mob**.
 
 .. image:: paginasVisualforce6.png
     :width: 650px
@@ -88,7 +88,7 @@ O FLInboxLead é componente utilizado no **Lead Layout - Sample Falae** do objet
 
 FLInboxContact
 ---------
-O FLInboxContact é componente utilizado no **Contact Layout - Sample Falae** do objeto **Contato**, ele é utilizado para adicionar o **Inbox do Falae** das conversas relacionadas ao **Contato**.
+O FLInboxContact é um componente utilizado no **Contact Layout - Sample Falae** do objeto **Contato**, ele é utilizado para adicionar o **Inbox do Falae** das conversas relacionadas ao **Contato**.
 
 .. image:: paginasVisualforce9.png
     :width: 700px

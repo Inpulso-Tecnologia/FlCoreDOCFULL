@@ -5,9 +5,9 @@ Acionadores do Apex
 ParametroFalae_aiu
 -----------------------
 
-O ParametroFalae_aiu é um acionador executado depois da inserção e depois da atualização do objeto Parâmetro Falae.
+O **ParametroFalae_aiu** é um acionador executado depois da inserção e depois da atualização do objeto Parâmetro Falae.
 
-Nele apenas é chamado o método executeTrigger da classe ParametroFalaeHandler.
+Nele apenas é chamado o método **executeTrigger** da classe **ParametroFalaeHandler**.
 
 .. Important::
    Referências:
@@ -16,9 +16,9 @@ Nele apenas é chamado o método executeTrigger da classe ParametroFalaeHandler.
 
 ConversaFalae_aiu
 -----------------------
-O ConversaFalae_aiu é um acionador executado depois da inserção e depois da atualização do objeto Conversa do Falae.
+O **ConversaFalae_aiu** é um acionador executado depois da inserção e depois da atualização do objeto Conversa do Falae.
 
-Nele apenas é chamado o método executeTrigger da classe ConversaFalaeHandler.
+Nele apenas é chamado o método **executeTrigger** da classe **ConversaFalaeHandler**.
 
 .. Important::
    Referências:
@@ -28,9 +28,9 @@ Nele apenas é chamado o método executeTrigger da classe ConversaFalaeHandler.
 ConversaFalae_biu
 -----------------------
 
-O ConversaFalae_biu é um acionador executado antes da inserção e antes da atualização do objeto Conversa do Falae.
+O **ConversaFalae_biu** é um acionador executado antes da inserção e antes da atualização do objeto **Conversa do Falae**.
 
-Nele apenas é chamado o método executeTrigger da classe ConversaFalaeHandler.
+Nele apenas é chamado o método **executeTrigger** da classe **ConversaFalaeHandler**.
 
 .. Important::
    Referências:
@@ -42,9 +42,9 @@ Nele apenas é chamado o método executeTrigger da classe ConversaFalaeHandler.
 MensagemFalae_aiu
 -----------------------
 
-O MensagemFalae_aiu é um acionador executado depois da inserção e depois da atualização do objeto Mensagem do Falae.
+O **MensagemFalae_aiu** é um acionador executado depois da inserção e depois da atualização do objeto **Mensagem do Falae**.
 
-Nele apenas é chamado o método executeTrigger da classe MensagemFalaeHandler.
+Nele apenas é chamado o método **executeTrigger** da classe **MensagemFalaeHandler**.
 
 .. Important::
    Referências:
@@ -56,9 +56,9 @@ Nele apenas é chamado o método executeTrigger da classe MensagemFalaeHandler.
 MensagemFalae_biu
 -----------------------
 
-O MensagemFalae_biu é um acionador executado antes da inserção e antes da atualização do objeto Mensagem do Falae.
+O **MensagemFalae_biu** é um acionador executado antes da inserção e antes da atualização do objeto **Mensagem do Falae**.
 
-Nele apenas é chamado o método executeTrigger da classe MensagemFalaeHandler.
+Nele apenas é chamado o método **executeTrigger** da classe **MensagemFalaeHandler**.
 
 .. Important::
    Referências:
@@ -68,7 +68,7 @@ Nele apenas é chamado o método executeTrigger da classe MensagemFalaeHandler.
 Lead_aiud
 -----------------------
 
-O Lead_aiud é um acionador executado após inserção, alteração e exclusão de um Lead, este acionador executa o método executeTrigger da classe LeadHandler, passando o oldmap do Lead excluido.
+O **Lead_aiud** é um acionador executado após inserção, alteração e exclusão de um Lead, este acionador executa o método **executeTrigger** da classe **LeadHandler**, passando o oldmap do Lead excluido.
 
 
 .. Important::
@@ -79,7 +79,7 @@ O Lead_aiud é um acionador executado após inserção, alteração e exclusão 
 ContatoFalae_biu
 -----------------------
 
-O Lead_aiud é um acionador executado após inserção, alteração e exclusão de um Lead, este acionador executa o método executeTrigger da classe ContatoFalaeHandler, passando o oldmap do ContatoFalae excluido.
+O **Lead_aiud** é um acionador executado após inserção, alteração e exclusão de um Lead, este acionador executa o método **executeTrigger** da classe **ContatoFalaeHandler**, passando o oldmap do ContatoFalae excluido.
 
 .. Important::
    Referências:
