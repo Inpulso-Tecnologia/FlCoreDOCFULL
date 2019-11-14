@@ -3,14 +3,14 @@ Layout de Parâmetro Whatsapp
 #################
 
 Na seção de layout do Parâmetro Whatsapp encontramos um layout padrão. 
-O layout padrão do Parâmetro Whatsapp apresenta os campos e botões abaixo abaixo:
+O layout padrão do Parâmetro Whatsapp apresenta os campos e botões abaixo:
 
 .. image:: layout6.png
     :width: 700px
     :alt: Solidity logo
     :align: center
     
-Campos com um cadeado são campos de apenas leitura. Campos marcados com asterisco são requerido.
+Campos com um cadeado são campos de apenas leitura. Campos marcados com asterisco são obrigatórios.
 
 .. Important::
    - Definição dos campos:

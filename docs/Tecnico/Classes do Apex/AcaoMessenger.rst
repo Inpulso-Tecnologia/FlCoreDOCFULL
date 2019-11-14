@@ -2,19 +2,19 @@
 AcaoMessenger
 #################
 
-Essa classe contém as variáveis **action** e **isDisabled** e o método **AcaoMessenger**.
+Essa classe contem as variaveis **action** e **isDisabled** e o metodo **AcaoMessenger**.
 
 Assinatura
 
 public AcaoMessenger(AcaoWhatsapp__mdt pAcaoWhatsapp, ConversaWhatsapp__c pConversaWhatsapp)
 
 
-**Especificações**
+**Especificacoes**
 
 @AuraEnabled
 action
 
-Cria a variável pública do tipo **AcaoWhatsapp__mdt**.
+Cria a variavel publica do tipo **AcaoWhatsapp__mdt**.
 
 Assinatura
 
@@ -23,7 +23,7 @@ public AcaoWhatsapp__mdt action;
 @AuraEnabled
 isDisabled
 
-Cria a variável pública do tipo Boolean.
+Cria a variavel publica do tipo Boolean.
 
 Assinatura
 
@@ -31,7 +31,7 @@ public Boolean isDisabled;
 
 AcaoMessenger(pAcaoWhatsapp, pConversaWhatsapp)
 
-Atribui os valores das variáveis públicas **action** e **isDisabled** através dos parâmetros passado.
+Atribui os valores das variaveis publicas **action** e **isDisabled** atraves dos parametros passados.
 
 Assinatura
 

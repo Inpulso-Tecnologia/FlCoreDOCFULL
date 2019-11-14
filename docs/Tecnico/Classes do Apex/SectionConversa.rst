@@ -2,18 +2,18 @@
 SectionConversa
 #################
 
-Essa classe contém as váriaveis listMensagemWa, isFirstSectionDate e sectionDate e os métodos SectionConversa e addMensagemWa.
+Essa classe contem as variaveis listMensagemWa, isFirstSectionDate e sectionDate e os metodos SectionConversa e addMensagemWa.
 
 Assinatura
 
 public SectionConversa()
 
-Explecificações
+**Especificacoes**
 
 @AuraEnabled
 listMensagemWa
 
-Cria a variável pública do tipo lista de MensagemWhatsapp__c.
+Cria a variavel publica do tipo lista de MensagemWhatsapp__c.
 
 Assinatura
 
@@ -22,7 +22,7 @@ public List<MensagemWhatsapp__c> listMensagemWa;
 @AuraEnabled
 isFirstSectionDate
 
-Cria a variável pública do tipo Booelan.
+Cria a variavel pública do tipo Booelan.
 
 Assinatura
 
@@ -31,7 +31,7 @@ public Boolean isFirstSectionDate;
 @AuraEnabled
 sectionDate
 
-Cria a variável pública do tipo Date.
+Cria a variavel publica do tipo Date.
 
 Assinatura
 
@@ -39,7 +39,7 @@ public Date sectionDate;
 
 SectionConversa()
 
-Cria uma lista de MensagemWhatsapp__c, vazia e à atribui na variável local listMensagemWa.
+Cria uma lista de MensagemWhatsapp__c, vazia e a atribui na variavel local listMensagemWa.
 
 Assinatura
 
@@ -51,7 +51,7 @@ Sem retorno.
 
 addMensagemWa(pMensagemWa)
 
-Adiciona a mensagem enviada pelo parâmetro pMensagemWa à variável local listMensagemWa.
+Adiciona a mensagem enviada pelo parametro pMensagemWa a variavel local listMensagemWa.
 
 Assinatura
 
