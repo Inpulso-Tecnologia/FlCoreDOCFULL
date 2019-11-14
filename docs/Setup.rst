@@ -28,7 +28,7 @@ Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e 
 
 Após a validação confirmada, registrar o domínio do mesmo. Após o registro concluído, o SalesForce pedirá para que logue novamente. 
 
-Após logar vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
+Após logar, vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
 
 .. figure:: instalacao5.png
     :width: 600px
@@ -47,7 +47,7 @@ Tendo realizado estas ações, já com o domínio registrado, poderá seguir par
 
 Instalação do Pacote Gerenciado
 -----------------------
-Em caso de procedimento interno o link para download pode ser encontrado através do Gerenciador de Pacotes. Para acessa-lo é preciso abrir as Configurações
+Em caso de procedimento interno o link para download pode ser encontrado através do Gerenciador de Pacotes. Para acessá-lo é preciso abrir as Configurações
 
 .. figure:: configurcao.png	
     :width: 270px
@@ -78,7 +78,7 @@ Logo após a confirmação uma notificação aparecerá, sendo necessária a con
     
     Garantia de acesso
     
-Depois da confirmação das opções anteriores o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do SalesForce.
+Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do SalesForce.
 
 .. figure:: instalacao3.png
     :width: 620px
@@ -90,7 +90,7 @@ Depois da confirmação das opções anteriores o download começará normalment
 Configuração de Endpoints do Servidor
 -----------------------
 
-Após a configuração do domínio e a instalação do pacote WhatsappCore é necessário entrar em contato com a INPULSO para utilização do pacote. Entre em contato conosco.
+Após a configuração do domínio e a instalação do pacote Falae Core é necessário entrar em contato com a INPULSO para utilização do pacote. Entre em contato conosco.
 
 Com a url que a INPULSO disponibilizar terá que inserir no Parâmetro Global e no Site Remoto.
 
@@ -206,7 +206,7 @@ Aqui temos dois tempos:
     
     Painel de Configuração da periodicidade
 
-.. Note:: Inbox do Falae: é o tempo em milissegundos da atualização realizadas no "Inbox do Falae" do "APP Falae".
-   Chat do Falae: é o tempo em milissegundos da atualização do componente Chat para Lead/Contato.
+.. Note:: Inbox do Falae: é o tempo em milissegundos das atualizações realizadas no "Inbox do Falae" do "APP Falae".
+   Chat do Falae: é o tempo em milissegundos das atualizações do componente Chat para Lead/Contato.
 
 
