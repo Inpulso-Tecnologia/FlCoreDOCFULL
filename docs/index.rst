@@ -26,8 +26,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :caption: DesinstalaçãoTESTE
 
 
-   TESTE
-   Desinstalação
+   Desinstalacao
 
    
 .. toctree::
