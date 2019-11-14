@@ -50,7 +50,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
 
 .. toctree::
     :maxdepth: 2
-    :caption: Tecnico
+    :caption: Técnico
   
     Indice_Tecnico
     
