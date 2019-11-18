@@ -6,7 +6,7 @@
 Falae Core - Versão Classic
 ========
 
-Alterar para `versão lightning`_
+.. Alterar para `versão lightning`_
 
 .. image:: WhatsApp-Messenger.png
     :width: 100px
@@ -57,4 +57,4 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     Classic_Indice_Tecnico
     
 
-.. _versão lightning : https://falae.readthedocs.io/pt_BR/latest/index.html
+.. .. _versão lightning : https://falae.readthedocs.io/pt_BR/latest/index.html
