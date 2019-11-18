@@ -56,6 +56,13 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :caption: Técnico
   
     Indice_Tecnico
+
+
+.. toctree::
+    :maxdepth: 2
+    :caption: Versão Classic
+  
+    classic_index
     
 
 .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html
