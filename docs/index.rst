@@ -6,8 +6,9 @@
 Falae Core - Versão Lightning
 ========
 
-Alterar para `versão classic`_
   :align: right
+Alterar para `versão classic`_
+
 
 .. image:: WhatsApp-Messenger.png
     :width: 100px
