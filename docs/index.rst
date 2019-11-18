@@ -6,7 +6,6 @@
 Falae Core - Versão Lightning
 ========
 
-  :align: right
 Alterar para `versão classic`_
 
 
