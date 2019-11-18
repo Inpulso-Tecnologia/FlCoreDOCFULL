@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Falae Core
+Falae Core - Versão Classic
 ========
 
 .. image:: WhatsApp-Messenger.png
@@ -52,5 +52,5 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :maxdepth: 2
     :caption: Técnico
   
-    Indice_Tecnico
+    Classic_Indice_Tecnico
     

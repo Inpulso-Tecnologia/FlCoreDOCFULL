@@ -57,4 +57,4 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     Indice_Tecnico
     
 
-.. _versão classic : https://whatsapp-teste.readthedocs.io/en/latest/classic_index.html
+.. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html
