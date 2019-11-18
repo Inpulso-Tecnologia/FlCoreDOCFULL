@@ -3,10 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Falae Core - Versão Lightning
+Falae Core
 ========
-
-Alterar para `versão classic`_
 
 .. image:: WhatsApp-Messenger.png
     :width: 100px
@@ -20,34 +18,34 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
    :caption: Configuração
    
    
-   Setup
+   Classic_Setup
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Desinstalação
     
-    Desinstalacao
+    Classic_Desinstalacao
 
    
 .. toctree::
     :maxdepth: 2
     :caption: Funcional
 
-    Funcional/Cadastro_Parametro
-    Funcional/Cadastro_Parametro_Mob
-    Funcional/Inbox do Whatsapp
+    Funcional/Classic_Cadastro_Parametro
+    Funcional/Classic_Cadastro_Parametro_Mob
+    Funcional/Classic_Inbox_do_Whatsapp
    
    
 .. toctree::
     :maxdepth: 2
     :caption: Administrativo
     
-    Administrador/Sample Layouts
+    Administrador/Classic_Sample_Layouts
     Administrador/Process Builder/Process Builder
     Administrador/Eventos de Plataforma/Eventos de Plataforma
     Tecnico/Metadados/Metadados
-    Administrador/PaginasVisualforce/Páginas do Visualforce
+    Administrador/PaginasVisualforce/Classic_Páginas_do_Visualforce
     Tecnico/Acionadores
 
 .. toctree::
@@ -56,5 +54,3 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
   
     Indice_Tecnico
     
-
-.. _versão classic : https://whatsapp-teste.readthedocs.io/en/latest/classic_index.html

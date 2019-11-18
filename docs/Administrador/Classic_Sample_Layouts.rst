@@ -1,0 +1,63 @@
+#################
+Layouts de exemplo do Falae
+#################
+
+Alguns objetos apresentam layouts de exemplo disponíveis após a instalação do pacote, sendo estes layouts de exemplos formas de mostrar a utilização de recursos destes objetos, sendo eles Caso, Contato e Lead.
+
+Caso -> Case Layout - Sample Falae
+-----------------------
+
+.. figure:: img/classicSampleLayout1.png
+    :width: 500px
+    :alt: Solidity logo
+    :align: center
+
+    Layouts da páginas.
+
+No objeto Caso, temos o exemplo de Layout mostrando como implementar o **Chat do Falae** caso tenha alguma conversa vinculada com o objeto.
+
+.. figure:: img/classicSampleLayout2.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+    Exemplo de utilização da Página do Visualforce - **FLChatCase**.
+
+Contato -> Contact Layout - Sample Falae
+-----------------------
+
+.. figure:: img/classicSampleLayout3.png
+    :width: 500px
+    :alt: Solidity logo
+    :align: center
+
+    Layouts da páginas.
+
+No objeto Contato, temos o exemplo de Layout mostrando como implementar o **Inbox do Falae** caso tenha alguma conversa vinculada com o objeto.
+
+.. figure:: img/classicSampleLayout4.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+    Exemplo de utilização da Página do Visualforce - **FLInboxContact**.
+
+Lead -> Lead Layout - Sample Falae
+-----------------------
+
+.. figure:: img/classicSampleLayout5.png
+    :width: 500px
+    :alt: Solidity logo
+    :align: center
+
+    Layouts da páginas.
+
+No objeto Lead, temos o exemplo de Layout mostrando como implementar o **Inbox do Falae** caso tenha alguma conversa vinculada com o objeto.
+
+.. figure:: img/classicSampleLayout6.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+    Exemplo de utilização da Página do Visualforce - **FLInboxLead**.
+
