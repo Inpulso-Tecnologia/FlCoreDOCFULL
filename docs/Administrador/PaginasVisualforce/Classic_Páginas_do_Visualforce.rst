@@ -36,7 +36,7 @@ FLQrRequest
 -----------
 O FLQrRequest é um botão personalizado utilizado no **Layout de Parâmetro Falae** do objeto **Parâmetro Falae**, ao clicar nele, solicita um QR Code ao servidor.
 
-.. image:: paginasVisualforce3.png
+.. image:: classicPaginasVisualforce3.png
     :width: 650px
     :alt: Solidity logo
     :align: center
@@ -45,7 +45,7 @@ Canal de Comunicação
 ---------
 O Canal de Comunicação é um campo utilizado no **Layout de Parâmetro Falae** do objeto **Parâmetro Falae**, nele é apresentado o tipo de comunicação.
 
-.. image:: paginasVisualforce4.png
+.. image:: classicPaginasVisualforce4.png
     :width: 450px
     :alt: Solidity logo
     :align: center
@@ -54,7 +54,7 @@ FLSolicitarCodigo
 ---------
 O FLSolicitarCodigo é um botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para solicitar um novo código.
 
-.. image:: paginasVisualforce5.png
+.. image:: classicPaginasVisualforce5.png
     :width: 650px
     :alt: Solidity logo
     :align: center
@@ -63,7 +63,7 @@ FLAutenticarNumero
 ---------
 O FLAutenticarNumero é um botão utilizado no **Layout de Parâmetro Falae (Whatsapp - Inpulso Mob)** do objeto **Parâmetro Falae**, ele é utilizado para autenticar o código recebido do parâmetro do tipo **Whatsapp - Inpulso Mob**.
 
-.. image:: paginasVisualforce6.png
+.. image:: classicPaginasVisualforce6.png
     :width: 650px
     :alt: Solidity logo
     :align: center
@@ -72,7 +72,7 @@ FLChatCase
 ---------
 O FLChatCase é componente utilizado no **Case Layout - Sample Falae** do objeto **Caso**, ele é utilizado para adicionar o **Chat do Falae** da conversa relacionada ao **Caso**.
 
-.. image:: paginasVisualforce7.png
+.. image:: classicPaginasVisualforce7.png
     :width: 700px
     :alt: Solidity logo
     :align: center
@@ -81,7 +81,7 @@ FLInboxLead
 ---------
 O FLInboxLead é componente utilizado no **Lead Layout - Sample Falae** do objeto **Lead**, ele é utilizado para adicionar o **Inbox do Falae** das conversas relacionadas ao **Lead**.
 
-.. image:: paginasVisualforce8.png
+.. image:: classicPaginasVisualforce8.png
     :width: 700px
     :alt: Solidity logo
     :align: center
@@ -90,7 +90,7 @@ FLInboxContact
 ---------
 O FLInboxContact é um componente utilizado no **Contact Layout - Sample Falae** do objeto **Contato**, ele é utilizado para adicionar o **Inbox do Falae** das conversas relacionadas ao **Contato**.
 
-.. image:: paginasVisualforce9.png
+.. image:: classicPaginasVisualforce9.png
     :width: 700px
     :alt: Solidity logo
     :align: center
@@ -99,7 +99,7 @@ FLInboxUser
 ---------
 O FLInboxUser é uma guia utilizada na aplicação do Falae para o Salesforce Classic. Através dessa guia é possível utilizar as funções do inbox na versão classic do Salesforce.
 
-.. image:: paginasVisualforce10.png
+.. image:: classicPaginasVisualforce10.png
     :width: 300px
     :alt: Solidity logo
     :align: center
