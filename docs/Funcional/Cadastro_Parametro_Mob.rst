@@ -47,7 +47,7 @@ Clique em Salvar.
     
 .. Hint:: Quando os dados estiverem corretos e o Status para Registrando, será necessário entrar em contato conosco para a ativação da organização (caso seja o primeiro parâmetro do tipo **Whatsapp - Inpulso Mob** da organização). 
 
-Ao finalizar o cadastro de um novo parâmetro Whatsapp - Inpulso Mob, será enviado um código para autenticação do número, caso seja possível, caso contrário mostrará quanto tempo falta para enviar um novo código tanto para Voz quanto para SMS.
+Ao finalizar o cadastro de um novo parâmetro Whatsapp - Inpul        so Mob, será enviado um código para autenticação do número, caso seja possível, caso contrário mostrará quanto tempo falta para enviar um novo código tanto para Voz quanto para SMS.
 
 Para autenticar o código recebido, clique em Autenticar número:
 
