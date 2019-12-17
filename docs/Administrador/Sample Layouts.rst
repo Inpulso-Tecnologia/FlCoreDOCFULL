@@ -3,7 +3,7 @@ Layouts de exemplo do Falae
 #################
 
 Alguns objetos apresentam layouts de exemplo disponíveis após a instalação do pacote, sendo estes layouts de exemplos formas de mostrar a utilização de recursos destes objetos, sendo eles Caso, Contato e Lead.
-Recomendamos o uso da Pagina de Registro  para o uso do  LIGHTNING .
+Recomendamos o uso da Pagina de Registro  para o uso do  LIGHTNING..
 
 Caso -> Case Layout - Sample Falae
 -----------------------
