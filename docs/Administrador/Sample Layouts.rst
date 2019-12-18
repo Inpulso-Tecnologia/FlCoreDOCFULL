@@ -68,3 +68,8 @@ No objeto Lead, temos o exemplo de Layout mostrando como implementar o **Inbox d
 Páginas de Registro -> Componentes -Falae
 -----------------------
 Dentro das páginas de registro Lightning temos os nossos componentes eles podem ser usados como componentes padrão do SalesForce ou ,seja  pode customizar o layout com os componentes tanto do SalesForce quanto do produto Falae.
+
+.. figure:: lightningfalae/img/Lightningfalae Layout1.png
+    :width: 500px
+    :alt: Solidity logo
+    :align: center
