@@ -89,7 +89,7 @@ Faça uma busca pelos componentes personalizados .
     :alt: Solidity logo
     :align: center
 
-    
+
 .. figure:: img/Lightningfalae.png
     :width: 500px
     :alt: Solidity logo
