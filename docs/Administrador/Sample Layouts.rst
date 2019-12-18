@@ -79,5 +79,7 @@ Páginas de Registro -> Componentes ->Implementar Chat do Falae
 -----------------------
 
 
-No objeto Caso, temos o exemplo mostrando como implementar o Chat do Falae caso tenha alguma conversa vinculada com o objeto.
+No objeto Caso, temos o exemplo mostrando como implementar o 
+Chat do Falae                                                    -----------------------
+caso tenha alguma conversa vinculada com o objeto.
 Faça uma busca pelos componentes personalizados .
