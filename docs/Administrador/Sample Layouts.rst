@@ -76,6 +76,7 @@ Dentro das páginas de registro Lightning temos os nossos componentes eles podem
 
 
 Páginas de Registro -> Componentes ->Implementar Chat do Falae
+-----------------------
 
 
 No objeto Caso, temos o exemplo mostrando como implementar o Chat do Falae caso tenha alguma conversa vinculada com o objeto.
