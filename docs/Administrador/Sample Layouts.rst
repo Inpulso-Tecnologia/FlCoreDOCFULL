@@ -73,6 +73,7 @@ Dentro das páginas de registro Lightning temos os nossos componentes eles podem
     :width: 500px
     :alt: Solidity logo
     :align: center
+    :border
 
 
 
