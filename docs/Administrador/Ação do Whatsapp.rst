@@ -1,4 +1,4 @@
-#################
+s#################
 Ação do Whatsapp
 #################
 A Ação do Whatsapp é o metadado utilizado para gerenciar as ações utilizadas na aplicação do Whastsapp.

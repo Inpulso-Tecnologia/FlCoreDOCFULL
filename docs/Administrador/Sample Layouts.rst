@@ -3,7 +3,11 @@ Layouts de exemplo do Falae
 #################
 
 Alguns objetos apresentam layouts de exemplo disponíveis após a instalação do pacote, sendo estes layouts de exemplos formas de mostrar a utilização de recursos destes objetos, sendo eles Caso, Contato e Lead.
+<<<<<<< HEAD
 Recomendamos o uso da Pagina de Registro para o uso do LIGHTNING.
+=======
+Recomendamos o uso da Pagina de Registro  para o uso do  LIGHTNING.acesse o link
+>>>>>>> master
 
 Caso -> Case Layout - Sample Falae
 -----------------------
@@ -23,6 +27,8 @@ No objeto Caso, temos o exemplo de Layout mostrando como implementar o **Chat do
     :align: center
 
     Exemplo de utilização da Página do Visualforce - **FLChatCase**.
+
+    
 
 Contato -> Contact Layout - Sample Falae
 -----------------------
