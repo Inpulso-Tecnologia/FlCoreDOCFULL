@@ -93,4 +93,13 @@ Faça uma busca pelos componentes personalizados .
     Escolha o componente do Falae no **busca** 
 
 
+    .. figure:: img/Lightningfalae03.png
+    :width: 500px
+    :alt: Solidity logo
+    :align: center
+
+   Arraste o componente  **Chat do Falae** 
+
+
+
 
