@@ -110,7 +110,7 @@ Na figura  abaixo  mostra  duas guias personalizadas, utilizando componentes per
     :alt: Solidity logo
     :align: center
 
-    Componentes  **Chat do Fale **
+    Componentes  **Chat do Fale**
 
 
 .. figure:: img/Lightningfalae05.png
