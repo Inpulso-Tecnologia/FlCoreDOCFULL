@@ -85,7 +85,7 @@ No objeto Caso, temos o exemplo mostrando como implementar o
 Chat do Falae caso tenha alguma conversa vinculada com o objeto.
 Faça uma busca pelos componentes personalizados .
 
-.. figure:: img/sampleLayout6.png
+.. figure:: img/Lightningfalae.png
     :width: 500px
     :alt: Solidity logo
     :align: center
