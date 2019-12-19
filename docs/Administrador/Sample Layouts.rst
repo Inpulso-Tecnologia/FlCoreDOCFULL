@@ -127,5 +127,11 @@ Contato -> Páginas de Registro
 No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso tenha alguma conversa já  vinculada .
 
 
+.. figure:: img/Lightningfalae06.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+
 
 
