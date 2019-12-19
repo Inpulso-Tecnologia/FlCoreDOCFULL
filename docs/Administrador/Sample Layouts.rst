@@ -102,7 +102,13 @@ Faça uma busca pelos componentes personalizados .
 Páginas de Registro -> Utilizando  componentes 
 -----------------------
 
+Na figura  abaixo  mostra  duas guias personalizadas, utilizando componentes personalizados. Utilizando nossos componentes personalizados. 
 
+
+.. figure:: img/Lightningfalae04.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
 
 
 
