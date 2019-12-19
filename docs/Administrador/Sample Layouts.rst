@@ -110,6 +110,8 @@ Na figura  abaixo  mostra  duas guias personalizadas, utilizando componentes per
     :alt: Solidity logo
     :align: center
 
+    No objeto Caso, temos o exemplo dos componentes  **“Chat do Fale  e FlinboxUser”**
+
 
 
 
