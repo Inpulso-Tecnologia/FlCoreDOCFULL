@@ -90,6 +90,8 @@ Faça uma busca pelos componentes personalizados .
     :alt: Solidity logo
     :align: center
 
+    Componentes do **FALAE**
+
 
 .. figure:: img/Lightningfalae.png
     :width: 500px
