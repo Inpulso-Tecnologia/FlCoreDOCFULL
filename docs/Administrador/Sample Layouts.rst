@@ -73,8 +73,8 @@ Dentro das páginas de registro Lightning temos os nossos componentes eles podem
     :width: 500px
     :alt: Solidity logo
     :align: center
-    :border
 
+    Componentes do **FALAE**
 
 
 Páginas de Registro -> Componentes ->Implementar Chat do Falae
@@ -85,15 +85,5 @@ No objeto Caso, temos o exemplo mostrando como implementar o
 Chat do Falae caso tenha alguma conversa vinculada com o objeto.
 Faça uma busca pelos componentes personalizados .
 
-.. figure:: img/Lightningfalae.png
-    :width: 500px
-    :alt: Solidity logo
-    :align: center
-
-    Componentes do **FALAE**
 
 
-.. figure:: img/Lightningfalae.png
-    :width: 500px
-    :alt: Solidity logo
-    :align: center
