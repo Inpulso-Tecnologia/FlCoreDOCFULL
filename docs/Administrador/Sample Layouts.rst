@@ -65,7 +65,7 @@ No objeto Lead, temos o exemplo de Layout mostrando como implementar o **Inbox d
 
     Exemplo de utilização da Página do Visualforce - **FLInboxLead**.
 
-Páginas de Registro -> Componentes ->Falae
+Caso-> Páginas de Registro -> Componentes ->Falae
 -----------------------
 Dentro das páginas de registro Lightning temos os nossos componentes eles podem ser usados como componentes padrão do SalesForce ou ,seja  pode customizar o layout com os componentes tanto do SalesForce quanto do produto Falae. Recomendamos o uso do Layout de Página para o uso do **CLASSIC**.
 
@@ -120,6 +120,11 @@ Na figura  abaixo  mostra  duas guias personalizadas, utilizando componentes per
 
 
     No objeto Caso, temos o exemplo dos componentes  **“Chat do Fale  e FlinboxUser”**
+
+Contato -> Páginas de Registro 
+-----------------------
+
+No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso tenha alguma conversa já  vinculada .
 
 
 
