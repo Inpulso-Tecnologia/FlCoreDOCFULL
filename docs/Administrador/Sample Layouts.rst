@@ -86,16 +86,18 @@ Chat do Falae caso tenha alguma conversa vinculada com o objeto.
 Faça uma busca pelos componentes personalizados .
 
 .. figure:: img/Lightningfalae02.png
-    :width: 500px
+    :width: 800px
     :alt: Solidity logo
     :align: center
 
     Escolha o componente do Falae no **busca** 
 
 .. figure:: img/Lightningfalae03.png
-    :width: 500px
+    :width: 800px
     :alt: Solidity logo
     :align: center
+
+     Arraste o componente **Chat Falae**   
 
 
 
