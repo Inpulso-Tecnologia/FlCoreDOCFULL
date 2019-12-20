@@ -141,9 +141,6 @@ No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso
     **Inbox do Falae**
 
 
-Lead -> Páginas de Registro 
-
-No objeto Lead, temos o exemplo de Layout mostrando como implementar o Inbox do Falae caso tenha alguma conversa vinculada com o objeto.
 
 
 
