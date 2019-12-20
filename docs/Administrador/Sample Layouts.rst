@@ -74,7 +74,7 @@ Dentro das páginas de registro Lightning temos os nossos componentes eles podem
     :alt: Solidity logo
     :align: center
 
-    Componentes do **FALAE**
+    Componentes do **FALAE** 
 
 
 
