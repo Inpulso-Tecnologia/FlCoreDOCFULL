@@ -77,6 +77,15 @@ Dentro das páginas de registro Lightning temos os nossos componentes eles podem
     Componentes do **FALAE**
 
 
+    .. figure:: img/produtofalae.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+    **Produto Falae**
+
+
+
 Páginas de Registro ->Implementar Chat do Falae
 -----------------------
 
@@ -153,10 +162,6 @@ No objeto Lead, temos o exemplo do  **Inbox do Falae** caso tenha alguma convers
 
     **Inbox do Falae**
 
-.. figure:: img/produtofalae.png
-    :width: 800px
-    :alt: Solidity logo
-    :align: center
 
 
 
