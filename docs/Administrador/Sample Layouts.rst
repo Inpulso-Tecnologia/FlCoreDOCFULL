@@ -133,7 +133,7 @@ No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso
     :align: center
 
 
-.. figure:: img/Lightningfalae07.png
+.. figure:: img/ligh07.png
     :width: 800px
     :alt: Solidity logo
     :align: center
