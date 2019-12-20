@@ -133,12 +133,18 @@ No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso
     :align: center
 
 
-.. figure:: img/ligh07.png
+.. figure:: img/Lightningfalae07.png
     :width: 800px
     :alt: Solidity logo
     :align: center
 
     **Inbox do Falae**
+
+
+Lead -> Páginas de Registro 
+
+No objeto Lead, temos o exemplo de Layout mostrando como implementar o Inbox do Falae caso tenha alguma conversa vinculada com o objeto.
+
 
 
 
