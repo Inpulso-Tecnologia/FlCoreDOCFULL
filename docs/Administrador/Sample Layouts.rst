@@ -70,19 +70,14 @@ Caso-> Páginas de Registro -> Componentes ->Falae
 Dentro das páginas de registro Lightning temos os nossos componentes eles podem ser usados como componentes padrão do SalesForce ou ,seja  pode customizar o layout com os componentes tanto do SalesForce quanto do produto Falae. Recomendamos o uso do Layout de Página para o uso do **CLASSIC**.
 
 .. figure:: img/Lightningfalae.png
-    :width: 500px
+    :width: 800px
     :alt: Solidity logo
     :align: center
 
     Componentes do **FALAE**
 
 
-    .. figure:: img/produtofalae.png
-    :width: 800px
-    :alt: Solidity logo
-    :align: center
 
-    **Produto Falae**
 
 
 
