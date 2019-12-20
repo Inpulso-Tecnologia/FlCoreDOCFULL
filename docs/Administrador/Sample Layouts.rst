@@ -121,7 +121,7 @@ Na figura  abaixo  mostra  duas guias personalizadas, utilizando componentes per
 
     No objeto Caso, temos o exemplo dos componentes  **“Chat do Fale  e FlinboxUser”**
 
-Contato -> Páginas de Registro 
+Contato -> Páginas de Registro -> Inbox do Falae
 -----------------------
 
 No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso tenha alguma conversa já  vinculada .
@@ -140,9 +140,18 @@ No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso
 
     **Inbox do Falae**
 
-Lead -> Páginas de Registro
+Lead -> Páginas de Registro -> Inbox do Falae
+-----------------------
 
-No objeto Lead, temos o exemplo de Layout mostrando como implementar o Inbox do Falae caso tenha alguma conversa vinculada com o objeto.
+
+No objeto Lead, temos o exemplo do  **Inbox do Falae** caso tenha alguma conversa vinculada com o objeto.
+
+.. figure:: img/Lightningfalae07.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+    **Inbox do Falae**
 
 
 
