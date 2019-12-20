@@ -153,6 +153,12 @@ No objeto Lead, temos o exemplo do  **Inbox do Falae** caso tenha alguma convers
 
     **Inbox do Falae**
 
+.. figure:: img/produtofalae.png
+    :width: 800px
+    :alt: Solidity logo
+    :align: center
+
+
 
 
 
