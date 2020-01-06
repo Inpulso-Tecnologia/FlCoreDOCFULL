@@ -101,7 +101,7 @@ Chat do Falae caso tenha alguma conversa vinculada.
     :alt: Solidity logo
     :align: center
 
-     Arraste o componente **Chat Falae** 
+     Arraste o componente **Chat Falae**
 
 Páginas de Registro -> Utilizando  componentes 
 -----------------------
