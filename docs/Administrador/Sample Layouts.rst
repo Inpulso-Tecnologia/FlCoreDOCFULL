@@ -67,7 +67,7 @@ No objeto Lead, temos o exemplo de Layout mostrando como implementar o **Inbox d
 
 Caso-> Páginas de Registro -> Componentes ->Falae
 -----------------------
-Dentro das páginas de registro Lightning temos os nossos componentes ,eles podem ser usados como componentes padrão do SalesForce ou ,seja  pode customizar o layout com os componentes tanto do SalesForce quanto do produto Falae. Recomendamos o uso do Layout de Página para o uso do **CLASSIC**.
+Dentro das páginas de registro Lightning temos os nossos componentes ,eles podem ser usados como componentes padrão do SalesForce ou seja  pode customizar o layout com os componentes tanto do SalesForce quanto do produto Falae. Recomendamos o uso do Layout de Página para o uso do **CLASSIC**.
 
 .. figure:: img/Lightningfalae.png
     :width: 800px
