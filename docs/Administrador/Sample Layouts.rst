@@ -95,7 +95,7 @@ arraste o componente **Chat Falae** (Fig 02)
     :alt: Solidity logo
     :align: center
 
-    Escolha o componente do Falae no **busca** 
+    Escolha o componente do Falae no **busca**  (Fig 01)
 
 .. figure:: img/Lightningfalae03.png
     :width: 800px
