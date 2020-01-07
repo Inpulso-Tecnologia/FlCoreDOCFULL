@@ -86,8 +86,8 @@ Páginas de Registro ->Implementar Chat do Falae
 
 
 No objeto Caso, temos o exemplo mostrando como implementar o 
-Chat do Falae caso tenha alguma conversa vinculada.
-Escolha o componente do Falae no busca (Fig 01)  e 
+Chat do Falae.
+Escolha o componente do Falae no campo busca (Fig 01)  e 
 arraste o componente **Chat Falae** (Fig 02)
 
 .. figure:: img/Lightningfalae02.png
