@@ -16,7 +16,7 @@ Caso -> Case Layout - Sample Falae
 
     Layouts da páginas.
 
-No objeto Caso, temos o exemplo de Layout mostrando como implementar o **Chat do Falae** caso tenha alguma conversa vinculada com o objeto.
+No objeto Caso, temos o exemplo de Layout mostrando como implementar o **Chat do Falae** 
 
 .. figure:: img/sampleLayout2.png
     :width: 800px
