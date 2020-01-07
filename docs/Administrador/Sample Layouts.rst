@@ -149,7 +149,7 @@ Lead -> Páginas de Registro -> Inbox do Falae
 -----------------------
 
 
-No objeto Lead, temos o exemplo do  **Inbox do Falae** caso tenha alguma conversa vinculada com o objeto.
+No objeto Lead, temos o exemplo do  **Inbox do Falae** .
 
 .. figure:: img/Lightningfalae07.png
     :width: 800px
