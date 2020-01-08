@@ -102,7 +102,8 @@ arraste o componente **Chat Falae** (Fig 02)
     :alt: Solidity logo
     :align: center
 
-     Arraste o componente **Chat Falae**
+     Arraste o componente **Chat Falae**(Fig02)
+
 
 Páginas de Registro -> Utilizando  componentes 
 -----------------------
