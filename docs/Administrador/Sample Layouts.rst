@@ -105,7 +105,7 @@ arraste o componente **Chat Falae** (Fig 02)
      Arraste o componente **Chat Falae**(Fig02)
 
 
-Páginas de Registro -> Utilizando  componentes.
+Páginas de Registro -> Utilizando  componentes
 -----------------------
 
 Na figura  abaixo  temos  duas guias personalizadas,componentes **“Chat do Fale** e **FlinboxUser”**
