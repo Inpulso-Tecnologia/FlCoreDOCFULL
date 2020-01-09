@@ -108,7 +108,7 @@ arraste o componente **Chat Falae** (Fig 02)
 Páginas de Registro -> Utilizando  componentes
 -----------------------
 
-Na figura  abaixo  temos  duas guias personalizadas,componentes **“Chat do Fale** e **FlinboxUser”**
+Na figura  abaixo  temos  duas guias com os componentes **“Chat do Fale** e **FlinboxUser”**
 
 
 .. figure:: img/Lightningfalae04.png
