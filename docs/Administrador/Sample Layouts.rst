@@ -130,7 +130,7 @@ Na figura  abaixo  temos  duas guias com os componentes **“Chat do Fale** e **
 Contato -> Páginas de Registro -> Inbox do Falae
 -----------------------
 
-No objeto Contato, temos o exemplo de como implementar o **Inbox do Falae** caso tenha alguma conversa já  vinculada .
+No objeto Contato, temos o componente  **Inbox do Falae**
 
 
 .. figure:: img/Lightningfalae06.png
