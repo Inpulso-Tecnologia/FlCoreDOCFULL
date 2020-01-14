@@ -79,8 +79,6 @@ Dentro das páginas de registro Lightning temos os nossos componentes ,eles pode
 
 
 
-
-
 Páginas de Registro ->Implementar Chat do Falae
 -----------------------
 
@@ -106,6 +104,8 @@ arraste o componente **Chat Falae** (Fig 02)
 
 
 Páginas de Registro -> Utilizando  componentes
+
+
 -----------------------
 
 Na figura  abaixo  temos  duas guias com os componentes **“Chat do Fale** e **FlinboxUser”**
