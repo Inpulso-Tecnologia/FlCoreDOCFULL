@@ -151,8 +151,7 @@ No objeto Contato, temos o componente **Inbox do Falae**. Esse componente permit
 Lead -> Páginas de Registro -> Inbox do Falae
 -----------------------
 
-
-No objeto Lead, temos o exemplo do  **Inbox do Falae** .
+No objeto Led, temos o componente **Inbox do Falae**. Esse componente permite que as conversas criadas pelo Chat Falae sejam mostradas no registro do Lead.
 
 
 .. figure:: img/Lightningfalae07.png
