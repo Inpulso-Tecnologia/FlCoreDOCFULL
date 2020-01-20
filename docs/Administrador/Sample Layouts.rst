@@ -132,7 +132,7 @@ Na figura  abaixo  temos  duas guias com os componentes **“Chat do Fale** e **
 Contato -> Páginas de Registro -> Inbox do Falae
 -----------------------
 
-No objeto Contato, temos o componente  **Inbox do Falae**
+No objeto Contato, temos o componente **Inbox do Falae**. Esse componente permite que as conversas criadas pelo Chat Falae sejam mostradas no registro do Contato.
 
 
 .. figure:: img/Lightningfalae06.png
