@@ -28,7 +28,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :maxdepth: 2
     :caption: Desinstalação
     
-    Desinstalacao
+    Desinstalação/Desinstalacao
 
    
 .. toctree::
