@@ -3,7 +3,7 @@
 Classes do Apex
 #################
 
-Classes do apex constituintes da aplicação Falae Core. DAVY
+Classes do apex constituintes da aplicação Falae Core
 
 .. toctree::
    :maxdepth: 2
