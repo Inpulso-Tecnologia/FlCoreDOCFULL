@@ -10,7 +10,7 @@ Registro de Domínio para a Organização
 
 Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio o mesmo deve, através da barra de pesquisa acessada pelo botão Configuração, procurar por "Meu Domínio"
 
-.. figure:: instalacao4.png
+.. figure:: img/instalacao4.png
     :width: 250px
     :alt: Solidity logo
     :align: center
@@ -19,7 +19,7 @@ Para que o pacote possa ser baixado primariamente o usuário deve possuir uma or
 
 Caso não tenha domínio cadastrado, deve-se escolher um nome para o domínio e verificar a validade do mesmo.
 
-.. figure:: instalacao6.png
+.. figure:: img/instalacao6.png
     :width: 620px
     :alt: Solidity logo
     :align: center
@@ -30,14 +30,14 @@ Após a validação confirmada, registrar o domínio do mesmo. Após o registro 
 
 Após logar, vá para a tela do "Meu domínio" novamente e clique em "Efetuar login".
 
-.. figure:: instalacao5.png
+.. figure:: img/instalacao5.png
     :width: 600px
     :alt: Solidity logo
     :align: center
 
 Efetuado login, clique em "Implantar para usuários".
 
-.. figure:: instalacao10.png
+.. figure:: img/instalacao10.png
     :width: 600px
     :alt: Solidity logo
     :align: center
@@ -49,7 +49,7 @@ Instalação do Pacote Gerenciado
 -----------------------
 Em caso de procedimento interno o link para download pode ser encontrado através do Gerenciador de Pacotes. Para acessá-lo é preciso abrir as Configurações
 
-.. figure:: configurcao.png	
+.. figure:: img/configuracao.png	
     :width: 270px
     :alt: Solidity logo
     :align: center
@@ -62,7 +62,7 @@ O download do pacote para a sua organização deve ser realizado através do lin
          
 O login na sua organização será requerido, e após o a realização será automaticamente redirecionado para a tela de download do pacote, onde será necessário marcar as opções apresentadas abaixo:
 
-.. figure:: instalacao1.png
+.. figure:: img/instalacao1.png
     :width: 620px
     :alt: Solidity logo
     :align: center
@@ -71,7 +71,7 @@ O login na sua organização será requerido, e após o a realização será aut
 
 Logo após a confirmação uma notificação aparecerá, sendo necessária a confirmação do seguinte item:
    
-.. figure:: instalacao2.png
+.. figure:: img/instalacao2.png
     :width: 620px
     :alt: Solidity logo
     :align: center
@@ -80,7 +80,7 @@ Logo após a confirmação uma notificação aparecerá, sendo necessária a con
     
 Depois da confirmação das opções anteriores, o download começará normalmente, demorando entre 1 a 3 minutos. Após a confirmação do encerramento do download a apliacação já estará visível para o cliente através dos aplicativos do SalesForce.
 
-.. figure:: instalacao3.png
+.. figure:: img/instalacao3.png
     :width: 620px
     :alt: Solidity logo
     :align: center
@@ -99,7 +99,7 @@ Parâmetro Global
 
 Entre na Configuração
 
-.. figure:: configurcao.png
+.. figure:: img/configuracao.png
     :width: 350px
     :alt: Solidity logo
     :align: center
@@ -145,7 +145,7 @@ Site Remoto
 
 Entre na Configuração
 
-.. figure:: configurcao.png
+.. figure:: img/configuracao.png
     :width: 350px
     :alt: Solidity logo
     :align: center
@@ -187,7 +187,7 @@ Para alterar o tempo de atualização:
 
 Entre na Configuração
 
-.. figure:: img/configurcao.png
+.. figure:: img/configuracao.png
     :width: 350px
     :alt: Solidity logo
     :align: center
@@ -199,7 +199,7 @@ Clique em Gerenciar registros do lado esquerdo do Periodicidade de Atualização
 Clique em Editar do lado esquerdo do Registro único.
 Aqui temos dois tempos:
 
-.. figure:: instalacao8.png
+.. figure:: img/instalacao8.png
     :width: 480px
     :alt: Solidity logo
     :align: center
