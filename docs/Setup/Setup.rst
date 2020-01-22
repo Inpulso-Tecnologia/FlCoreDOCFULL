@@ -187,7 +187,7 @@ Para alterar o tempo de atualização:
 
 Entre na Configuração
 
-.. figure:: configurcao.png
+.. figure:: img/configurcao.png
     :width: 350px
     :alt: Solidity logo
     :align: center
