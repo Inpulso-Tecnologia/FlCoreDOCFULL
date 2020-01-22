@@ -44,7 +44,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :maxdepth: 2
     :caption: Administrativo
     
-    Administrador/Sample Layouts
+    Administrador/SampleLayouts
     Administrador/Process Builder/Process Builder
     Administrador/Eventos de Plataforma/Eventos de Plataforma
     Tecnico/Metadados/Metadados
