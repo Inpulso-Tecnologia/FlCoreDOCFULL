@@ -6,7 +6,7 @@ Setup
 O objetivo deste documento é apontar os requisitos necessários e o passo-a-passo para a aplicação da funcionalidade e sua configuração em uma nova organização.
 
 Registro de Domínio para a Organização
------------------------
+--------------------------------------
 
 Para que o pacote possa ser baixado primariamente o usuário deve possuir uma organização no SalesForce que possua o domínio cadastrado. Para cadastrar um domínio o mesmo deve, através da barra de pesquisa acessada pelo botão Configuração, procurar por "Meu Domínio"
 
@@ -46,7 +46,7 @@ Tendo realizado estas ações, já com o domínio registrado, poderá seguir par
 
 
 Instalação do Pacote Gerenciado
------------------------
+-------------------------------
 Em caso de procedimento interno o link para download pode ser encontrado através do Gerenciador de Pacotes. Para acessá-lo é preciso abrir as Configurações
 
 .. figure:: img/configuracao.png	
@@ -88,14 +88,14 @@ Depois da confirmação das opções anteriores, o download começará normalmen
     Painel de aplicações
         
 Configuração de Endpoints do Servidor
------------------------
+-------------------------------------
 
 Após a configuração do domínio e a instalação do pacote Falae Core é necessário entrar em contato com a INPULSO para utilização do pacote. Entre em contato conosco.
 
 Com a url que a INPULSO disponibilizar terá que inserir no Parâmetro Global e no Site Remoto.
 
 Parâmetro Global
-~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
 
 Entre na Configuração
 
@@ -179,7 +179,7 @@ Clique em Salvar.
 
     
 Configuração de Periodicidade de Atualização do Inbox
------------------------
+-----------------------------------------------------
 	
 A periodicidade de atualização das mensagens é de 30 segundos por padrão, porém é possível modificar.
 
