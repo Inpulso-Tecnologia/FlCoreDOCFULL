@@ -32,7 +32,7 @@ Será necessário também remover o metadado Parâmetro Global. O Parâmetro Glo
 Nos metadados, deve ser selecionado o botão "Gerenciar Registros" que se encontra ao lado do metadado Parâmetro Global     
     
 .. figure:: img/Desinstalar7.png
-    :width: 400px
+    :width: 350px
     :alt: Solidity logo
     :align: center
     
@@ -41,7 +41,7 @@ Nos metadados, deve ser selecionado o botão "Gerenciar Registros" que se encont
 Ao selecionar a opção, dois registros serão mostrados em tela, ambos precisam ser excluídos para que a desinstalação seja possível
 
 .. figure:: img/Desinstalar8.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
@@ -59,7 +59,7 @@ Após a realização da exclusão do Parâmetro Global, será necessária a excl
 No site remoto deve-se excluir ambos os registros, WhatsappMob e WhatsappWeb.
 
 .. figure:: img/Desinstalar10.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
@@ -68,7 +68,7 @@ No site remoto deve-se excluir ambos os registros, WhatsappMob e WhatsappWeb.
 Estes são os padrões, entretanto pode-se encontrar algumas outras dependencias do pacote caso o mesmo já tenha sido customizado, como por exemplo um campo do Falae sendo utilizado em um Layout padrão
 
 .. figure:: img/Desinstalar11.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
@@ -77,7 +77,7 @@ Estes são os padrões, entretanto pode-se encontrar algumas outras dependencias
 Os campos são facilmente removidos arrastando-os de volta para a barra superior    
   
 .. figure:: img/Desinstalar12.png
-    :width: 500px
+    :width: 480px
     :alt: Solidity logo
     :align: center
     
@@ -86,7 +86,7 @@ Os campos são facilmente removidos arrastando-os de volta para a barra superior
 Pode também haver Layouts implantados e estes também precisam ser removidos, para removê-los é necessário acessar o Objeto através do Gerenciador de Objetos e ir na aba de Layout 
  
 .. figure:: img/Desinstalar13.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
@@ -104,7 +104,7 @@ Depois da remoção das dependências a desinstalação pode ser realizada atrav
 Nos Pacotes Instalados é possível visualizar todos os pacotes instalados em sua organização, além de poder desinstalá-los. Para a desinstalação é necessário selecionar a ação "Desinstalar"
 
 .. figure:: img/Desinstalar2.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
@@ -113,7 +113,7 @@ Nos Pacotes Instalados é possível visualizar todos os pacotes instalados em su
 No final da página será necessário marcar a opção confirmando que deseja desinstalar permanentemente os componentes e clickar no botão "Desinstalar"
 
 .. figure:: img/Desinstalar3.png
-    :width: 850px
+    :width: 700px
     :alt: Solidity logo
     :align: center
     
