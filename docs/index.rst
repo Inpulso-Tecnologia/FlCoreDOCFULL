@@ -9,7 +9,7 @@ Falae Core - Versão Lightning
 .. Alterar para `versão classic`_
 
 
-.. image:: WhatsApp-Messenger.png
+.. image:: Img/WhatsApp-Messenger.png
     :width: 100px
     :alt: Solidity logo
     :align: center 
