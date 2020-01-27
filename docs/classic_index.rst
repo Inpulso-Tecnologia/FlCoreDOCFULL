@@ -20,14 +20,14 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
    :caption: Configuração
    
    
-   Classic_Setup
+   ClassicSetup/Classic_Setup
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Desinstalação
     
-    Classic_Desinstalacao
+    ClassicDesinstalação/Classic_Desinstalacao
 
    
 .. toctree::
