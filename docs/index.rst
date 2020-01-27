@@ -21,14 +21,14 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
    :caption: Configuração
    
    
-   Setup/Setup
+   LightningSetup/Setup
 
 
 .. toctree::
     :maxdepth: 2
     :caption: Desinstalação
     
-    Desinstalação/Desinstalacao
+    LightningDesinstalação/Desinstalacao
 
    
 .. toctree::
