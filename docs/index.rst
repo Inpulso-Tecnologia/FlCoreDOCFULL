@@ -50,7 +50,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     Tecnico/Metadados/Metadados
     Administrador/PaginasVisualforce/Páginas do Visualforce
     Tecnico/Acionadores
-    Administrativo.rst
+    
 
 .. toctree::
     :maxdepth: 2
