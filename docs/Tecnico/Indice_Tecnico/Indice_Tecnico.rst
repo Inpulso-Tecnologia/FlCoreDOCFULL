@@ -7,6 +7,6 @@ Indice do documento técnico, voltado para maior aprofundamento e conhecimento d
    :maxdepth: 2
    :caption: Classes
       
-   Tecnico/Indice_Tecnico/Classes do Apex.rst
+   Classes do Apex.rst
    Componentes Lightning.rst
    layouts.rst

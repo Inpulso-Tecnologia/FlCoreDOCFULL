@@ -50,13 +50,13 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     Tecnico/Metadados/Metadados
     Administrador/PaginasVisualforce/Páginas do Visualforce
     Tecnico/Acionadores
-    
+
 
 .. toctree::
     :maxdepth: 2
     :caption: Técnico
   
-    Indice_Tecnico
+    Tecnico/Indice_Tecnico
 
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html
