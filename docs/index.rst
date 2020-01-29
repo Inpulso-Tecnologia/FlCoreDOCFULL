@@ -55,7 +55,7 @@ Bem vindo a documentação da aplicação salesforce "Falae Core". Neste documen
     :maxdepth: 2
     :caption: Técnico
   
-    Indece_Tecnico/Indice_Tecnico
+    Indice_Tecnico
 
     
 .. .. _versão classic : https://falae.readthedocs.io/pt_BR/latest/classic_index.html
