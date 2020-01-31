@@ -9,4 +9,4 @@ Indice do documento técnico, voltado para maior aprofundamento e conhecimento d
       
    IndexClassesdoApex.rst
    IndexComponentesLightning.rst
-   Indexlayouts.rst
+   IndexLayouts.rst
