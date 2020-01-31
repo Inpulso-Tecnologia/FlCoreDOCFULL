@@ -7,6 +7,6 @@ Indice do documento técnico, voltado para maior aprofundamento e conhecimento d
    :maxdepth: 2
    :caption: Classes
       
-   IndexClassesdoApex.rst
-   IndexComponentesLightning.rst
-   Indexlayouts.rst
+   indexClassesApex.rst
+   indexComponentesLightning.rst
+   indexlayouts.rst
